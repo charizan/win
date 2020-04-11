@@ -1,1 +1,9 @@
-1. http://winprog.org/
+1. http://winprog.org/ --- Windows Programing Tutorial, the tutorial link leads to theForger's Win32 API Programming Tutorial
+
+
+
+Tools
+
+1. https://www.browserling.com/tools/ntlm-hash --- NTLM Password Calculator
+
+
