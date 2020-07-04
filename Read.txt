@@ -2,8 +2,16 @@
 
 2. https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation
 
+3. https://itm4n.github.io/windows-server-netman-dll-hijacking/
+
 Tools
 
 1. https://www.browserling.com/tools/ntlm-hash --- NTLM Password Calculator
 
+
+Security
+
+1. https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation
+
+2. https://book.hacktricks.xyz/
 
